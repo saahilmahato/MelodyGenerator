@@ -1,4 +1,5 @@
 venv
 .ipynb_checkpoints
 melody_processor.pkl
-melody_transformer.pthmidi_files/
+melody_transformer.pth
+midi_files/
