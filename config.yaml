@@ -1,0 +1,5 @@
+data_folders:
+  raw_midi: midi_files
+  raw_data: raw_data
+
+numOfMidi: 100

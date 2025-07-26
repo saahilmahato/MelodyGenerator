@@ -1,3 +1,6 @@
 venv
 .ipynb_checkpoints
-midi_files/
+__pycache__
+
+midi_files
+raw_data
