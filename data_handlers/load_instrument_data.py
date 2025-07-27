@@ -1,5 +1,4 @@
 import os
-import re
 import json
 import pretty_midi
 from pathlib import Path
